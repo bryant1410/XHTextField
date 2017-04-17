@@ -8,8 +8,8 @@ English: micro letter like avatars selection, system information App gesture key
 
 ![image](https://github.com/JackTeam/XHTextField/raw/master/Screenshots/TextField.gif)
 
-##安装
-##Installation
+## 安装
+## Installation
 
 中文:      [CocosPods](http://cocosPods.org)安装XHTextField的推荐方法,只是在Podfile添加以下行:
 
